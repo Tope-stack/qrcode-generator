@@ -1,0 +1,1 @@
+web gunicorn qrgen.wsgi:application --log-file -
